@@ -1,0 +1,1 @@
+Este repositório é dedicado ao meu MVP na Sprint Machine Learning & Analytics, onde eu construo o modelo de regressão ideal para entender quais são os principais atributos que influenciam a precificação de casas em Boston (EUA).
