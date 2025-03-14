@@ -18,11 +18,11 @@ O conjunto de dados utilizado é o clássico **Boston Housing Dataset**, amplame
 
 ## 📂 Estrutura do Repositório
 
-###📦 Boston_house_price_modelling
-┣ 📜 Boston_House_Price.ipynb # Notebook principal com código e análise
-┣ 📜 dataset.csv # Conjunto de dados (se necessário)
-┣ 📜 README.md # Documento atual explicando o projeto
-┗ 📜 requirements.txt # Bibliotecas necessárias para rodar o projeto
+### 📦 Boston_house_price_modelling
+- ┣ 📜 Boston_House_Price.ipynb # Notebook principal com código e análise
+- ┣ 📜 dataset.csv # Conjunto de dados (se necessário)
+- ┣ 📜 README.md # Documento atual explicando o projeto
+- ┗ 📜 requirements.txt # Bibliotecas necessárias para rodar o projeto
 
 ---
 
